@@ -1,3 +1,5 @@
+---
+
 # MLOps-Dagshub
 
 A streamlined MLOps pipeline integrating version control, model tracking, and reproducibility using **DagsHub**. Ideal for collaborative machine learning workflows and efficient experiment tracking.
@@ -35,5 +37,17 @@ A streamlined MLOps pipeline integrating version control, model tracking, and re
 Clone the repo and enter the directory:
 
 ```bash
-git clone https://github.com/your_username/MLOps-Daghub.git
-cd MLOps-Daghub
+git clone https://github.com/your_username/MLOps-Dagshub.git
+cd MLOps-Dagshub
+```
+
+---
+
+## 🔗 Quick Access
+
+- 🔍 [View Files](https://dagshub.com/kratugautam99/MLOps-Dagshub)  
+- 📂 [Explore Datasets](https://dagshub.com/kratugautam99/MLOps-Dagshub/datasets)  
+- 🧪 [Experiment Runs](https://dagshub.com/kratugautam99/MLOps-Dagshub/experiments)  
+- 📦 [Registered Models](https://dagshub.com/kratugautam99/MLOps-Dagshub/models)  
+
+---
